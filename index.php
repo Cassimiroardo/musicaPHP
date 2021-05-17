@@ -10,7 +10,7 @@
 <body>
     <div class="container">
         <header>
-          <h1>Bem vindo</h2>
+          <h1>Bem vindo</h1>
         </header>
         <nav>
           <a href="/pages/instruments.php">
@@ -29,6 +29,6 @@
             MúsicaPHP
           </h5>
         </footer>
-    <div>      
+    </div>      
 </body>
 </html>

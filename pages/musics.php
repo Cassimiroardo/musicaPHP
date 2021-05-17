@@ -11,7 +11,7 @@
     <div class="container">
         <header>
             <a href="../index.php">
-                <h1>Voltar</h2>
+                <h1>Voltar</h1>
             </a>
         </header>
         <nav>
@@ -75,6 +75,6 @@
             MúsicaPHP
           </h5>
         </footer>
-    <div>      
+    </div>      
 </body>
 </html>
