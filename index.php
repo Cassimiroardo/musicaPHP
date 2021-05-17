@@ -23,7 +23,7 @@
             <h3>Musicas</h3>
           </a>
          </nav>
-        <img src="/images/undefined.png" alt="" srcset="">
+        <img src="/images/undefined.png" alt="" srcset="" />
         <footer>
           <h5>
             MúsicaPHP
