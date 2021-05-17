@@ -10,7 +10,7 @@
 <body>
     <div class="container">
         <header>
-            <a href="../index.php">
+            <a href="../index.html">
                 <h1>Voltar</h1>
             </a>
         </header>
